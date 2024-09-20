@@ -1,2 +1,2 @@
 istio/pilot:1.21.0
-k8s-minikube/kicbase:v0.0.45
+gcr.io/k8s-minikube/kicbase:v0.0.45
