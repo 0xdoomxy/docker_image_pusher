@@ -1,16 +1,2 @@
-istio/pilot:1.21.0
-gcr.io/k8s-minikube/kicbase:v0.0.45
-istio/proxyv2:1.21.0
-apache/skywalking-oap-server:9.1.0
-apache/skywalking-ui:9.1.0
-prom/prometheus:v2.48.0
-ghcr.io/prometheus-operator/prometheus-config-reloader:v0.67.0
-grafana/grafana:10.1.5
-istio/examples-bookinfo-details-v1:1.18.0
-istio/examples-bookinfo-ratings-v1:1.18.0
-istio/examples-bookinfo-reviews-v1:1.18.0
-istio/examples-bookinfo-reviews-v2:1.18.0
-istio/examples-bookinfo-reviews-v3:1.18.0
-istio/examples-bookinfo-productpage-v1:1.18.0
-istio/operator:1.21.0
+
 genainerds/gapi:arm64
