@@ -1,1 +1,1 @@
-genainerds/gapi:arm64
+dustynv/jetson-copilot:r35.4.1
