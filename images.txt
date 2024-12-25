@@ -13,3 +13,4 @@ istio/examples-bookinfo-reviews-v2:1.18.0
 istio/examples-bookinfo-reviews-v3:1.18.0
 istio/examples-bookinfo-productpage-v1:1.18.0
 istio/operator:1.21.0
+genainerds/gapi:arm64
