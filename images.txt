@@ -1,1 +1,1 @@
-dustynv/jetson-copilot:r35.4.1
+golang:1.22.1
