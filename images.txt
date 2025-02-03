@@ -1,1 +1,1 @@
-golang:1.22.1
+milvusdb/milvus:v2.5.4
