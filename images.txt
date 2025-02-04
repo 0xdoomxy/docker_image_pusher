@@ -1,1 +1,9 @@
-apache/kafka:3.7.2
+bitnami/kafka:3.9
+provectuslabs/kafka-ui:v0.7.2
+mysql/mysql-server:8.0.28
+prom/prometheus:v2.28.1
+grafana/grafana:8.0.6
+kevinwan/go-stash:1.0.8
+elastic/filebeat:7.17.8
+docker.elastic.co/kibana/kibana:7.13.4
+docker.elastic.co/elasticsearch/elasticsearch:7.13.4
