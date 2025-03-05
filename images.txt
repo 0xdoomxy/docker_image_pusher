@@ -1,1 +1,1 @@
-selenium/standalone-chrome:132.0-20250222
+docker.elastic.co/elasticsearch/elasticsearch:8.17.3
