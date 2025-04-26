@@ -1,1 +1,1 @@
-redis/redis-stack-server:7.4.0-v3
+golang:1.22.1
