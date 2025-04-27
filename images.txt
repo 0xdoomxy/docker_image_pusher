@@ -1,1 +1,1 @@
-grafana/grafana:9.3.2
+oliver006/redis_exporter:v1.69.0
