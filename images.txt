@@ -1,1 +1,1 @@
-oliver006/redis_exporter:v1.69.0
+prom/mysqld-exporter:v0.17.2
