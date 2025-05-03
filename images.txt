@@ -1,1 +1,1 @@
-slpcat/canal-adapter:v1.1.5
+quay.io/prometheus/node-exporter:latest
