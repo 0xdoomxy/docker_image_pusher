@@ -1,1 +1,1 @@
-danielqsj/kafka-exporter:v1.9.0
+nginx:latest
