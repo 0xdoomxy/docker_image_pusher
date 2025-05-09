@@ -1,1 +1,1 @@
-nginx:latest
+fluent/fluentd:v1.16.1-1.0
