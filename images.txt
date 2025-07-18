@@ -1,1 +1,1 @@
-jaegertracing/jaeger:2.8.0
+ghcr.io/astral-sh/uv:python3.12-bookworm
