@@ -1,1 +1,1 @@
-uv:python3.13-bookworm
+astral/uv:python3.13-bookworm
