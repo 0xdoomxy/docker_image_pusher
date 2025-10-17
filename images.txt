@@ -1,1 +1,1 @@
-golang:1.24.9
+ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-contrib:0.137.0
