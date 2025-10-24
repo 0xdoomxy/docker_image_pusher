@@ -1,1 +1,4 @@
-fullstorydev/grpcurl:latest
+prom/alertmanager:v0.28.1
+prom/node-exporter:v1.9.1
+gcr.io/cadvisor/cadvisor:v0.52.1
+grafana/grafana:12.0.2
