@@ -1,1 +1,1 @@
-fullstorydev/grpcurl:latest-alpine
+nicolaka/netshoot
