@@ -1,1 +1,1 @@
-nginx:stable-otel
+canal/canal-admin:v1.1.8
