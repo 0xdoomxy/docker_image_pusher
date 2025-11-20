@@ -1,1 +1,1 @@
-golang:1.21-bullseye
+python3.11:latest
