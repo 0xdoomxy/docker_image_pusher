@@ -1,2 +1,1 @@
-
-taskweavercontainers/taskweaver-executor:0.3
+ghcr.io/vndee/sandbox-python-311-bullseye
