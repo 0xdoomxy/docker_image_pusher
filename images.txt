@@ -1,1 +1,1 @@
-ghcr.io/vndee/sandbox-python-311-bullseye
+sigp/lighthouse:v8.0.1
