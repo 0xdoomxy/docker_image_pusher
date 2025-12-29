@@ -1,1 +1,1 @@
-sigp/lighthouse:v8.0.1
+rabbitmq:3.12.10-management
