@@ -1,1 +1,1 @@
-rabbitmq:3.12.10-management
+golang:1.21-alpine  
