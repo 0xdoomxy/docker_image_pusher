@@ -57,6 +57,11 @@ jobs:
 
     - name: Build and push image Aliyun
       run: |
+        docker system prune -a -f   # 清理所有未使用的 Docker 资源（镜像、容器、网络、构建缓存）
+        rm -rf /home/runner/actions-runner/cached/*
+        rm -rf /home/runner/actions-runner/_work/*
+        rm -rf /home/runner/actions-runner/_diag/*.log
+        rm -rf /home/runner/actions-runner/cached/_diag/*.log   # 如果该目录存在
         docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
         # 数据预处理,判断镜像是否重名
         declare -A duplicate_images
