@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch-wolfi:8.19.11
+docker.elastic.co/elasticsearch/elasticsearch:8.19.11
