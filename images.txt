@@ -1,1 +1,1 @@
-docker.io/library/ubuntu:22.04 
+redis:8.6.1
