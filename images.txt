@@ -1,1 +1,1 @@
-redis:8.6.1
+traefik:v3.6.9
