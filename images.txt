@@ -1,1 +1,1 @@
-traefik:v3.6.9
+nginx:1.25-alpine
