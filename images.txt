@@ -1,1 +1,1 @@
-oven/bun:1-alpine
+postgres:18.3
