@@ -1,1 +1,2 @@
-postgres:18.3
+elasticsearch_exporter:v1.7.0
+postgres-exporter:v0.10.1
