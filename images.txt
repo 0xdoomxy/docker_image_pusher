@@ -1,2 +1,2 @@
-elasticsearch_exporter:v1.7.0
-postgres-exporter:v0.10.1
+prometheuscommunity/postgres-exporter:v0.19.1
+bitnami/redis-exporter:latest
