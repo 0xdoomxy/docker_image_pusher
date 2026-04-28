@@ -1,1 +1,1 @@
-bitnami/nginx-exporter:latest
+timescale/timescaledb-ha:pg18
